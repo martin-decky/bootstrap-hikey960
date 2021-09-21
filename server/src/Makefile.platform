@@ -56,6 +56,7 @@ SUPPORT_CC_arm64-ls1012afrdm   := platform/layerscape.cc
 SUPPORT_CC_arm64-ls1046        := platform/ls1046.cc
 SUPPORT_CC_arm64-zynqmp        := platform/zynq.cc
 SUPPORT_CC_arm64-arm_virt      := platform/arm_virt.cc
+SUPPORT_CC_arm64-hikey960      := platform/hikey960.cc
 SUPPORT_CC_arm64-imx8m         := platform/imx.cc
 SUPPORT_CC_arm64-imx8q         := platform/imx.cc
 SUPPORT_CC_arm64-imx8x         := platform/imx.cc
